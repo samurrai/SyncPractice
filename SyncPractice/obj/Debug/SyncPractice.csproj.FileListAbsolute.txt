@@ -1,0 +1,7 @@
+C:\Users\ШадикьянР\source\repos\SyncPractice\SyncPractice\bin\Debug\SyncPractice.exe.config
+C:\Users\ШадикьянР\source\repos\SyncPractice\SyncPractice\bin\Debug\SyncPractice.exe
+C:\Users\ШадикьянР\source\repos\SyncPractice\SyncPractice\bin\Debug\SyncPractice.pdb
+C:\Users\ШадикьянР\source\repos\SyncPractice\SyncPractice\obj\Debug\SyncPractice.csprojAssemblyReference.cache
+C:\Users\ШадикьянР\source\repos\SyncPractice\SyncPractice\obj\Debug\SyncPractice.csproj.CoreCompileInputs.cache
+C:\Users\ШадикьянР\source\repos\SyncPractice\SyncPractice\obj\Debug\SyncPractice.exe
+C:\Users\ШадикьянР\source\repos\SyncPractice\SyncPractice\obj\Debug\SyncPractice.pdb
